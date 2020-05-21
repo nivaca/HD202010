@@ -38,7 +38,8 @@
       
       
       <p>
-        Me apresuro a contestar la carta de <date when="1815-08-29">29 del mes pasado</date> que <choice><abbr>V.</abbr><expan>usted</expan></choice> me hizo el honor de dirigirme, y yo recibí con la mayor satisfacción.
+        Me apresuro a    
+        contestar la carta de <date when="1815-08-29">29 del mes pasado</date> que <choice><abbr>V.</abbr><expan>usted</expan></choice> me hizo el honor de dirigirme, y yo recibí con la mayor satisfacción.
       </p>
       
       
@@ -230,7 +231,13 @@
       
       
       <p>
-        De cuanto he referido, será fácil colegir que la <placeName>América</placeName> no estaba preparada para desprenderse de la metrópoli, como súbitamente sucedió por el efecto de las ilegítimas cesiones de <name>Bayona</name> y por la inicua guerra que la regencia nos declaró sin derecho alguno para ello, no sólo por la falta de justicia, sino también de legitimidad. Sobre la naturaleza de los gobiernos españoles, sus decretos conminatorios y hostiles, y el curso entero de su desesperada conducta, hay escritos del mayor mérito en el periódico <title>El Español</title>, cuyo autor es el <name>Sr. Blanco</name>; y estando allí esta parte de nuestra historia muy bien tratada, me limito a indicarlo.
+        De cuanto he referido, será fácil colegir que la <placeName>América</placeName> no estaba
+        preparada para desprenderse de la metrópoli, como súbitamente sucedió por el efecto de las
+        ilegítimas cesiones de <name>Bayona</name> y por la inicua guerra que la regencia nos
+        declaró sin derecho alguno para ello, no sólo por la falta de justicia, sino también de
+        legitimidad. Sobre la naturaleza de los gobiernos españoles, sus decretos conminatorios y
+        hostiles, y el curso entero de su desesperada conducta, hay escritos del mayor mérito en el
+        periódico <title type="periódico">El Español</title>, cuyo autor es el <name>Sr. Blanco</name>; y estando allí esta parte de nuestra historia muy bien tratada, me limito a indicarlo.
       </p>
       
       
